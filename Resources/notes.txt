@@ -1,0 +1,4 @@
+A Survey on Android and Linux --> good, covered 
+Android device driver structure introduction --> bad
+Android porting concept -> bad
+
